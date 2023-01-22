@@ -1,0 +1,15 @@
+POM :- Design Pattern (page object model is desing pattern)
+DD:- Data Driven aproch
+Libs:-  Generic Functions
+
+Q. are we useing Keyword driven (KD) aproch? 
+Ans:-  no
+keyword driven is total defference frame work.deferent frame work aproch. 
+keywon driven  is
+(1) Open browser
+(2) Enter URl
+(3) Enter user name
+(3) Enter password
+(4) Click on login  
+
+nobody use keyword deriven, this old thinks..  
